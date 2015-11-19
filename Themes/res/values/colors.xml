@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This is a custom red colour, used by the Theme_Default_Dark_MyCustomTheme style
+    	in res/values/styles.xml
+    	-->
+        <color name="my_custom_red">#FFFF1111</color>
+</resources>

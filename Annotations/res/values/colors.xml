@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_bg_color">#FFFFFF</color>
+    <color name="light_transparent">#80d3d3d3</color>
+    <color name="white">#ffffff</color>
+    <color name="actionbar_primary_color">#6495ED</color>
+    <color name="actionbar_primary_dark_color">#4682B4</color>
+    <color name="myTextPrimaryColor">#000000</color>
+    <color name="myWindowBackground">#DEDEDE</color>
+    <color name="lightdivider">#d8d8d8</color>
+    <color name="myAccentColor">#3F51B5</color>
+
+</resources>
