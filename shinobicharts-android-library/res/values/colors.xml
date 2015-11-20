@@ -10,8 +10,8 @@
         <color name="sc_gridDefaultLineColor">#66CECECE</color>
         <color name="sc_defaultSelectedSeriesColor">#FF888888</color>
         
-        <color name="sc_chartDefaultBackgroundColor">#FFFBFBFB</color>
-        <color name="sc_plotDefaultAreaColor">#FFF0F0F0</color>
+        <color name="sc_chartDefaultBackgroundColor">#c5d4e8</color>
+        <color name="sc_plotDefaultAreaColor">#c5d4e8</color>
         <color name="sc_plotDefaultAreaBorderColor">#B3939393</color>
         <color name="sc_pieDonutLabelDefaultColor">#FFFBFBFB</color>
         
@@ -28,7 +28,7 @@
         <color name="sc_defaultGridStripeColor">#267F7F7F</color>
         <color name="sc_defaultAlternateGridStripeColor">#00000000</color>
         
-        <color name="sc_annotationDefaultBackgroundColor">#99FFFFFF</color>
+        <color name="sc_annotationDefaultBackgroundColor">@android:color/transparent</color>
         <color name="sc_annotationDefaultTextColor">#FF000000</color>
  
         
